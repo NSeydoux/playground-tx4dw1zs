@@ -1,4 +1,4 @@
-title: Simple C Template
+title: Discovering memory management in the OS
 plan:
-- title: C Snippet
+- title: Problem statement
   statement: statement.md
